@@ -16,20 +16,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 </div>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="0" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" **alt="Netlify" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"  title="vitejs" alt="vitejs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" title="handlebars" alt="handlebars" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" **alt="Netlify" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"  title="vitejs" alt="vitejs" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" title="handlebars" alt="handlebars" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" height="40"/>
 </div>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" **alt="Pycharm" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="VScode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry" **alt="Raspberry" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="debian" **alt="debian" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" **alt="Pycharm" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="VScode" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry" **alt="Raspberry" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="debian" **alt="debian" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" height="40"/>
+  <img src="https://github.com/alfrix/alfrix/assets/1247237/131797fc-78d7-45a0-9070-d70f9e3e0cd7" title="pygobject" **alt="pygobject" height="40"/>
 </div>
 <div>
   <img src="https://www.freecad.org/svg/icon-freecad.svg" title="inkscape" **alt="inkscape" width="40" eight="40"/>
