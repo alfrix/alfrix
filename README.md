@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### What i know
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
@@ -39,12 +38,11 @@
 </div>
 
 ### Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfrix&theme=dark)](https://git.io/streak-stats)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alfrix)](https://git.io/streak-stats)
 
-### Websites i made
 
 * https://www.futurnet.com.ar
-* https://futurnet.netlify.app (to replace previous)
+* https://futurnet.netlify.app
 * https://3d2-shop.netlify.app
 
 ### i'm maintaining
@@ -54,6 +52,7 @@
 ### Projects i was involved
 * https://github.com/libretro/RetroArch/
 * https://github.com/libretro-thumbnails/
+* https://github.com/FreeCAD/
 
 #### As translator:
 https://github.com/qbittorrent/qBittorrent/
